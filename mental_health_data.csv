@@ -1,0 +1,15 @@
+AGE,GENDER,ANXIETY,DEPRESSION,SLEEP_ISSUES,SOCIAL_WITHDRAWAL,STRESS_LEVEL,WORK_STUDY_PRESSURE,FAMILY_HISTORY,PHYSICAL_ACTIVITY,SOCIAL_SUPPORT,SCORE
+23,Male,Yes,No,Yes,No,High,High,Yes,Low,Low,2
+35,Female,No,Yes,Yes,Yes,Medium,Medium,No,High,Medium,3
+28,Male,Yes,Yes,No,No,High,High,Yes,Low,Low,4
+30,Female,No,No,Yes,No,Low,Medium,No,High,High,1
+22,Male,Yes,Yes,Yes,Yes,High,High,Yes,Low,Low,4
+40,Female,No,No,No,No,Low,Low,No,High,High,1
+32,Male,Yes,No,No,Yes,Medium,Medium,No,Medium,Low,3
+27,Female,No,Yes,Yes,No,Medium,High,Yes,Medium,Medium,2
+21,Other,Yes,Yes,Yes,No,High,High,Yes,Low,Medium,4
+29,Male,No,No,No,No,Low,Low,No,High,Low,1
+26,Female,Yes,Yes,Yes,Yes,High,High,Yes,Low,High,4
+34,Male,No,Yes,No,Yes,Medium,Medium,No,Medium,Low,3
+
+
